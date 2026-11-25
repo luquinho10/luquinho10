@@ -42,8 +42,8 @@ I like building things that work end to end: from the database to the app on you
 
 ## 📊 GitHub stats
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=luquinho10&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luquinho10&layout=compact&hide_border=true)
 
 ## 📫 Contact
 
